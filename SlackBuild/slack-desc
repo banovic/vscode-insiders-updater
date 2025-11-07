@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+               |-----handy-ruler------------------------------------------------------|
+vscode-insiders: vscode-insiders (Visual Studio Code - Insiders)
+vscode-insiders:
+vscode-insiders: Visual Studio Code is a lightweight but powerful source code editor
+vscode-insiders: which runs on your desktop and is available for Windows, macOS and
+vscode-insiders: Linux. It comes with built-in support for JavaScript, TypeScript
+vscode-insiders: and Node.js and has a rich ecosystem of extensions for other
+vscode-insiders: languages and runtimes (such as C++, C#, Java, Python, PHP, Go,
+vscode-insiders: .NET). This is the Insiders build which includes the latest
+vscode-insiders: features and improvements.
+vscode-insiders:
+vscode-insiders: Homepage: https://code.visualstudio.com/insiders/
