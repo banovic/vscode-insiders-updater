@@ -1,4 +1,5 @@
 Script that keeps Visual Studio Code Insiders edition updated on Slackware.
+
 It is useful for keeping up-to-date with high-frequency-release extensions like Claude Code, rust-analyzer, etc.
 
 It will install or update VSCode Insiders, which seems to be released daily.
